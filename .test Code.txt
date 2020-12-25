@@ -1,0 +1,11 @@
+entier k[5], chaine g;
+f(entier k, entier l)
+{
+	k=-l;
+	retour k;
+}
+m(entier a,chaine g)
+{
+	a=9;f(0,m(a,g),9);
+	g=lire();
+}

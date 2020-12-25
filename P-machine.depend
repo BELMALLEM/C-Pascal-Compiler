@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1577587570 source:c:\users\abdessamad mathani\desktop\p-machine\main.cpp
+	<iostream>
+	<string>
+	"Pmachine.h"
+
+1577746814 source:c:\users\abdessamad mathani\desktop\p-machine\src\pmachine.cpp
+	"Pmachine.h"
+
+1577804865 c:\users\abdessamad mathani\desktop\p-machine\include\pmachine.h
+	<iostream>
+	<vector>
+	<sstream>
+	<fstream>
+	<../structure.h>
+
+1577809940 c:\users\abdessamad mathani\desktop\p-machine\structure.h
+	<string>
+
